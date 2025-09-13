@@ -65,6 +65,11 @@ After analysing the simulated output,
 (iii) Change the firing angle to 90 degree, simulate and draw the Output voltage and current waveform on the graph sheet.
 (iv)Write your inference.
 
-## Simulation
-## Output
-## Result
+## Simulation:
+<img width="967" height="549" alt="image" src="https://github.com/user-attachments/assets/e0aefc6a-30f3-4c90-9998-bde04ac3eab5" />
+
+## Output:
+<img width="1037" height="548" alt="image" src="https://github.com/user-attachments/assets/23e4a68c-6633-407a-a960-14cc00536891" />
+
+## Result:
+Thus designed, simulated and analysed a full wave rectifier controlled by thyristors using MATLAB Simulink.
